@@ -1,7 +1,7 @@
 # Arttice-project
 
 ## WHAT WE ARE
-Arttice is a platform for networking - mapping cultural players, providing a tool for contemporary artists, organisations and the culture curious to explore, discover, connect and collaborate.
+[Arttice](https://arttice.com) is a platform for networking - mapping cultural players, providing a tool for contemporary artists, organisations and the culture curious to explore, discover, connect and collaborate.
 
 ## OUR MISSION
 Arttice is an independent platform created for art scene collaboration, where diverse creative fields can interact, broadening perspectives of culture and arts, generating opportunities for the creators and the public.
@@ -30,3 +30,9 @@ Version = 2.1.beta
 Bugs, issues and feature requests: [create issue](https://github.com/IdeasBlockLT/Arttice-project/issues)
 
 Contact us: contact@arttice.com
+
+Created by:
+[Ideas Block LT](https://ideas-block.com)
+
+Supported by:
+[Lietuvos Kultūros taryba](https://ltkt.lt)
