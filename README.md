@@ -25,6 +25,8 @@ To register as an artist or organisation at Arttice you will need an invitation.
 
 ....
 
+Version = 2.1.beta
+
 Bugs, issues and feature requests: [create issue](https://github.com/IdeasBlockLT/Arttice-project/issues)
 
 Contact us: contact@arttice.com
