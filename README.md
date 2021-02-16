@@ -41,7 +41,7 @@ Supported by:
 
 ##### Consider donating to Arttice and Ideas Block with:
 
-[Paypal](paypal.me/donateIdeasBlock)
+[Paypal](https://paypal.me/donateIdeasBlock)
 
 Bitcoin: bc1qtrs8dth5na56l5saju9hm0frc6qhxpp239nwqp
 
