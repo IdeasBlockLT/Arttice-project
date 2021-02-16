@@ -1,4 +1,6 @@
+
 # Arttice-project
+<img src="https://test.arttice.com/arttice-logo/logo.svg" width="200" height="200">
 
 ## WHAT WE ARE
 [Arttice](https://arttice.com) is a platform for networking - mapping cultural players, providing a tool for contemporary artists, organisations and the culture curious to explore, discover, connect and collaborate.
