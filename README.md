@@ -20,12 +20,12 @@ Arttice forms a database that can serve as a research tool to follow the dynamic
 ### For the Public
 For the culture curious Arttice is a tool to get information about the culture and art scene of the chosen location, discover and follow artists, find new creative spaces and events. To dive into the stunning art and culture world.
 
-. . .
+---
 
 It is free and open for anyone to explore.
 To register as an artist or organisation at Arttice you will need an invitation. If you don’t have one and would like to join, complete [this form](https://arttice.com/request-invitation)
 
-. . .
+---
 
 ## Technical and feature roadmap
 ### Stage 1
@@ -58,7 +58,7 @@ Features
 Analysis
 Data as a Service 
 
-. . .
+---
 
 
 Version = 2.1.beta
@@ -73,7 +73,7 @@ Created by:
 Supported by:
 [Lietuvos Kultūros taryba](https://ltkt.lt)
 
-...
+---
 
 ##### Consider donating to Arttice and Ideas Block with:
 
