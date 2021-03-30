@@ -29,28 +29,25 @@ To register as an artist or organisation at Arttice you will need an invitation.
 
 ## Technical and feature roadmap
 ### Stage 1
-Better social functions and interactions 
-Features
-Shared pages administration 
-Connections functions
-Favourite and follow functions 
-Messaging 
-Posts
+Features:
+- Shared pages administration 
+- Connections functions
+- Favourite and follow functions 
+- Messaging 
+- Posts
 
 ### Stage 2
-Monetisation
-Features
-Promotions
-Ads
-Market place
+Features:
+- Promotions and Ads
+- Market place
 
 ### Stage 3
-Expanding and system-level collaboration with other relevant platforms 
-Features
-Interaction with other cultural databases (i.e. with Art Archive, or Onda MX)
-What is the shape of such interactions
-Differentiation with other platforms will be what functionalities they offer
-Arttice’s value proposition can be facilitating the distribution of value and the horizontality or democracy. 
+Expanding and system-level collaboration with other relevant platforms.
+Features:
+- Interaction with other cultural databases (i.e. with Art Archive, or Onda MX)
+- What is the shape of such interactions
+- Differentiation with other platforms will be what functionalities they offer
+- Arttice’s value proposition can be facilitating the distribution of value and the horizontality or democracy. 
 
 ### Stage 4
 Statistics, analysis and A.I.
