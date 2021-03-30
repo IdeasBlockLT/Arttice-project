@@ -25,7 +25,7 @@ For the culture curious Arttice is a tool to get information about the culture a
 It is free and open for anyone to explore.
 To register as an artist or organisation at Arttice you will need an invitation. If you don’t have one and would like to join, complete [this form](https://arttice.com/request-invitation)
 
-....
+. . .
 
 ## Technical and feature roadmap
 ### Stage 1
@@ -57,7 +57,8 @@ Statistics, analysis and A.I.
 Features
 Analysis
 Data as a Service 
-....
+
+. . .
 
 
 Version = 2.1.beta
