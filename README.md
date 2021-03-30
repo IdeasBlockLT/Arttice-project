@@ -44,16 +44,13 @@ Features:
 ### Stage 3
 Expanding and system-level collaboration with other relevant platforms.
 Features:
-- Interaction with other cultural databases (i.e. with Art Archive, or Onda MX)
-- What is the shape of such interactions
-- Differentiation with other platforms will be what functionalities they offer
-- Arttice’s value proposition can be facilitating the distribution of value and the horizontality or democracy. 
+- Interaction with other cultural databases.
+- Deffinition of the shape of such interactions, based on the differentiation of Aarttice to other platforms.
 
 ### Stage 4
-Statistics, analysis and A.I.
-Features
-Analysis
-Data as a Service 
+Statistics and analysis. Features:
+- Analysis
+- Data as a Service 
 
 ---
 
